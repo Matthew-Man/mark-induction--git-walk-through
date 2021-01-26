@@ -1,0 +1,1 @@
+Version control is important for tracking and managing changes to source code, particularly when collaborating in a team.
