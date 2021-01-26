@@ -1,1 +1,1 @@
-Here is something to read.
+This repository is to practice using GitHub and version control
